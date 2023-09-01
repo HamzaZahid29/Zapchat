@@ -10,6 +10,10 @@ A Flutter Chat App with animations and firebase login/signup and cloud firestore
 - [Features](#features)
 - [Packages and Dependencies](#packages-and-dependencies)
 
+## Screenshots
+![Screenshot 1](screenshot1.jpeg)
+![Screenshot 2](screenshot2.jpeg)
+
 ## Introduction
 
 This app uses Firebase Authentication using Email/Pass and Firestore to save chats. It was created during my learning phase to learn Streams, Animations, and Firebase.
